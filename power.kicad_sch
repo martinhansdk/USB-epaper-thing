@@ -1929,7 +1929,7 @@
     )
     (pin "1" (uuid 9f43ae2b-87fa-43e3-898e-aee59d3fc528))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#FLG03") (unit 1)
         )
@@ -1973,7 +1973,7 @@
     (pin "B9" (uuid 1459c9a8-53eb-4731-bd6b-30281d672958))
     (pin "S1" (uuid c518afd6-2d55-45a6-b144-8ee73a437da3))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "J6") (unit 1)
         )
@@ -2009,7 +2009,7 @@
     (pin "8" (uuid 67655d90-0b5a-4db3-a181-10b6a940d15f))
     (pin "9" (uuid 6b53bc0a-6e0b-4e98-8dc4-1ecc89ceab64))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "U3") (unit 1)
         )
@@ -2035,7 +2035,7 @@
     (pin "1" (uuid 7622c67d-e78e-4c79-b5f3-2dc99856582b))
     (pin "2" (uuid 7d1584fe-fbd9-43c4-a320-eda046f06d10))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R19") (unit 1)
         )
@@ -2060,7 +2060,7 @@
     )
     (pin "1" (uuid 3ea78fb7-d31f-4655-bbc4-34a88cc3792e))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR038") (unit 1)
         )
@@ -2085,7 +2085,7 @@
     )
     (pin "1" (uuid f0fed8ac-9fe9-4cb4-b2cc-8073ce82bed1))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR034") (unit 1)
         )
@@ -2110,7 +2110,7 @@
     )
     (pin "1" (uuid 3b92eab4-ee3a-4f34-b088-5417437dff50))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR051") (unit 1)
         )
@@ -2135,7 +2135,7 @@
     )
     (pin "1" (uuid 54ec1713-9f45-4df3-bde0-6f738b57bda7))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR042") (unit 1)
         )
@@ -2165,7 +2165,7 @@
     (pin "2" (uuid 6c2dceb7-2bcf-44c4-b7de-cd3681d16762))
     (pin "3" (uuid 727b3cdb-948e-461b-9e8a-f7c38e136a35))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "U4") (unit 1)
         )
@@ -2195,7 +2195,7 @@
     (pin "2" (uuid 45f64cd7-1e37-4338-ab99-6dc5cca2c7ed))
     (pin "3" (uuid 1bd73a86-0b6e-46ac-ab20-525f0d0f8a74))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "Q2") (unit 1)
         )
@@ -2224,7 +2224,7 @@
     (pin "1" (uuid 8c147c43-6c6f-4167-a4d5-cfab7b4b40d2))
     (pin "2" (uuid 3c683d98-1398-4d3a-b84a-ce23949588ec))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R16") (unit 1)
         )
@@ -2253,7 +2253,7 @@
     (pin "1" (uuid 0b40b1cd-7bf3-448b-8b4a-4af35d4dabbe))
     (pin "2" (uuid 0c385fd5-3983-4f97-9313-ff2e3a16cb3d))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "D9") (unit 1)
         )
@@ -2282,7 +2282,7 @@
     (pin "1" (uuid 94ee19a8-d469-42d3-ad80-26e423d9a3b6))
     (pin "2" (uuid 492ad076-921b-4dae-85a2-4d88bcc1e758))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "D7") (unit 1)
         )
@@ -2307,7 +2307,7 @@
     )
     (pin "1" (uuid 980d5cdf-6b02-454a-a794-162d1cc2877b))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR041") (unit 1)
         )
@@ -2333,7 +2333,7 @@
     (pin "1" (uuid c8f833da-9f2e-4640-a8e3-bb175f5a2747))
     (pin "2" (uuid 21222d3c-3123-4c47-800c-240cecdabcdf))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R22") (unit 1)
         )
@@ -2358,7 +2358,7 @@
     )
     (pin "1" (uuid 5323e290-5b28-4507-ae95-05310424e2a1))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR047") (unit 1)
         )
@@ -2383,7 +2383,7 @@
     )
     (pin "1" (uuid 9f6357ec-535f-4aac-be51-d036294c92f0))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR043") (unit 1)
         )
@@ -2412,7 +2412,7 @@
     (pin "1" (uuid 8ac66a83-a347-4a49-802d-682cce28a157))
     (pin "2" (uuid 1b035a98-d98c-41e8-b176-6280430204a0))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "C11") (unit 1)
         )
@@ -2437,7 +2437,7 @@
     )
     (pin "1" (uuid 5d48a063-51f5-4335-a95b-69f73209aada))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR045") (unit 1)
         )
@@ -2466,7 +2466,7 @@
     (pin "1" (uuid f00796b8-99d3-4da1-9963-c20e7ae81b54))
     (pin "2" (uuid f2748eee-bed7-4708-a33e-3b38686a1a9d))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "D8") (unit 1)
         )
@@ -2491,7 +2491,7 @@
     )
     (pin "1" (uuid a0d3f528-f097-4f95-a44e-e420b8452816))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#FLG05") (unit 1)
         )
@@ -2524,7 +2524,7 @@
     (pin "5" (uuid a57afefb-3fc3-432a-9775-cda77d485349))
     (pin "6" (uuid 0add7e18-4cec-4cd1-8738-da5955841b28))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "U2") (unit 1)
         )
@@ -2549,7 +2549,7 @@
     )
     (pin "1" (uuid 343810ac-a0e8-450f-b702-4978e278b03f))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#FLG01") (unit 1)
         )
@@ -2575,7 +2575,7 @@
     (pin "1" (uuid 79dafc4e-4687-40d9-9e3b-f4a65bb4c2b5))
     (pin "2" (uuid ab937e3c-86af-4115-ace7-1a74fe8b6817))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R18") (unit 1)
         )
@@ -2604,7 +2604,7 @@
     (pin "1" (uuid cacf6ef4-23a2-4fed-8d54-6313d3f3554f))
     (pin "2" (uuid 5f3d080f-38ef-430d-8cbc-06907c9b727b))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "C10") (unit 1)
         )
@@ -2613,7 +2613,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Bridged") (at 275.59 121.92 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 908e7383-bbac-4199-a9b7-07957ffbe0ee)
     (property "Reference" "JP1" (at 275.59 119.3109 0)
       (effects (font (size 1.27 1.27)))
@@ -2630,7 +2630,7 @@
     (pin "1" (uuid e3b9200b-658d-43b8-9467-c36f4d282751))
     (pin "2" (uuid f56991f0-bf51-45e0-a35c-faa5c3d4e39f))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "JP1") (unit 1)
         )
@@ -2659,7 +2659,7 @@
     (pin "1" (uuid 878b93e8-83c2-4a86-9862-f6672e963b30))
     (pin "2" (uuid 151ea882-daf7-4359-9276-274cae5d37c3))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R15") (unit 1)
         )
@@ -2688,7 +2688,7 @@
     (pin "1" (uuid 51a7d953-8210-4ce2-a701-57c0e5ffdd7c))
     (pin "2" (uuid 5c121804-ba6b-4bfa-9dd6-4add66eee66a))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "C12") (unit 1)
         )
@@ -2713,7 +2713,7 @@
     )
     (pin "1" (uuid 151344bd-abe4-48c0-85c2-408bf110836d))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR046") (unit 1)
         )
@@ -2722,7 +2722,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 274.32 110.49 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid a3205d88-fdcf-44b4-b1c8-f80fcd2c8fb1)
     (property "Reference" "J8" (at 276.86 106.68 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2739,7 +2739,7 @@
     (pin "1" (uuid 71b3d72d-8487-4be3-85ae-452d2c3fc662))
     (pin "2" (uuid 35dedaec-a5b9-4b4e-8853-d0a73fff5be0))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "J8") (unit 1)
         )
@@ -2764,7 +2764,7 @@
     )
     (pin "1" (uuid 1c8caf3a-dc31-41ec-89d6-d2123d871d10))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR036") (unit 1)
         )
@@ -2789,7 +2789,7 @@
     )
     (pin "1" (uuid 05971ee1-2fac-4e58-848c-3647be09c463))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR048") (unit 1)
         )
@@ -2814,7 +2814,7 @@
     )
     (pin "1" (uuid 30c6e68c-887d-4c9b-94f0-6aa046d22610))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR049") (unit 1)
         )
@@ -2839,7 +2839,7 @@
     )
     (pin "1" (uuid 8fff7588-12f2-4ee3-9e5b-723e383e5b2e))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR044") (unit 1)
         )
@@ -2864,7 +2864,7 @@
     )
     (pin "1" (uuid 2cc33dc0-ea15-48f3-a210-614475f4fd21))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR039") (unit 1)
         )
@@ -2890,7 +2890,7 @@
     (pin "1" (uuid 9a6ea67e-603c-4f63-96f0-bf60d97026aa))
     (pin "2" (uuid 86482914-1002-4a81-bbe8-81f330239691))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R17") (unit 1)
         )
@@ -2915,7 +2915,7 @@
     )
     (pin "1" (uuid 50c499a4-c650-46fa-b10e-27c734ffdf5a))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR040") (unit 1)
         )
@@ -2940,7 +2940,7 @@
     )
     (pin "1" (uuid 6b976816-730b-4671-a518-12f7109210c7))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#FLG04") (unit 1)
         )
@@ -2957,19 +2957,19 @@
     (property "Value" "Thermistor_NTC" (at 213.233 119.6396 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (at 210.82 116.84 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 210.82 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 210.82 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 210.82 118.11 0)
+    (property "LCSC" "C267088" (at 210.82 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0187e2ee-a1fd-4362-8daf-de684dcd1216))
     (pin "2" (uuid 946c6b8a-7080-48e2-b2aa-839cf927883d))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "TH1") (unit 1)
         )
@@ -2995,7 +2995,7 @@
     (pin "1" (uuid 03754575-f6e7-4501-8e35-3699aa5f38e3))
     (pin "2" (uuid 6fa31b7e-9373-4f51-80d2-f0710f4e2629))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R20") (unit 1)
         )
@@ -3027,7 +3027,7 @@
     (pin "1" (uuid 8454abe4-3770-47c9-a403-a0f6cf8c8697))
     (pin "2" (uuid 423f8f3f-1db5-4268-86a3-5643cb13cb59))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "BT1") (unit 1)
         )
@@ -3056,7 +3056,7 @@
     (pin "1" (uuid ae9ab7f2-bf50-4314-81bb-1c3f948b37b0))
     (pin "2" (uuid fdb28ba0-be54-4402-906c-8f2cb9d4f96c))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "C9") (unit 1)
         )
@@ -3082,7 +3082,7 @@
     (pin "1" (uuid 62e94246-1d2d-4190-908f-487b812a7490))
     (pin "2" (uuid 50977f4c-f6fb-4041-b5e1-17bd9468c6b0))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "R21") (unit 1)
         )
@@ -3107,7 +3107,7 @@
     )
     (pin "1" (uuid 9802e4c0-06e6-4251-a5b4-810220abc612))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR066") (unit 1)
         )
@@ -3132,7 +3132,7 @@
     )
     (pin "1" (uuid 4b1862c4-54ba-455d-ade7-685e9e8ff8b7))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#PWR050") (unit 1)
         )
@@ -3157,7 +3157,7 @@
     )
     (pin "1" (uuid cda8a4d3-d5c3-4279-bc0f-ebe92d17800f))
     (instances
-      (project "USB E-Ink thing"
+      (project "USB E-Paper thing"
         (path "/03659e82-b7b8-4d3e-8633-26f17364684b/876f18ad-39d2-464b-941d-14407347fc1b"
           (reference "#FLG02") (unit 1)
         )
