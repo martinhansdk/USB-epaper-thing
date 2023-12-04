@@ -1971,7 +1971,7 @@
     (property "Value" "USB 2.0 right angle" (at 36.83 59.2399 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV" (at 40.64 78.74 0)
+    (property "Footprint" "local:USB-C-SMD_G-SWITCH_GT-USB-7010ASV" (at 40.64 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 40.64 78.74 0)
