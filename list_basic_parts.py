@@ -11,8 +11,8 @@ import sqlite3
 import re
 
 category_parsers = {
-    'Chip Resistor - Surface Mount': [re.compile(r'(?P<power>\d+m?W).*?±(?P<precision>\d+%).*?(?P<value>\d+(\.\d+)?[mkM]?Ω)')],
-    'Multilayer Ceramic Capacitors MLCC - SMD/SMT': [re.compile(r'(?P<power>\d+k?V).*?(?P<value>\d+(\.\d+)?[pnu]?F).*?±(?P<precision>\d+%)')]
+    'Chip Resistor - Surface Mount': [re.compile(r'(?P<power>\d+m?W).*?±(?P<precision>\d+(\.\d+)?%).*?(?P<value>\d+(\.\d+)?[mkM]?Ω)')],
+    'Multilayer Ceramic Capacitors MLCC - SMD/SMT': [re.compile(r'(?P<power>\d+(\.\d+)?k?V).*?(?P<value>\d+(\.\d+)?[pnu]?F).*?±(?P<precision>\d+%)')]
 }
 
 VALUE_PARSER = re.compile(r'(?P<amount>\d+(\.\d+)?)(?P<multiplier>[pnumkM]?)[ΩF]$')
