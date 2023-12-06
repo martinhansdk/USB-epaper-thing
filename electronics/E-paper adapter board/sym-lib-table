@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "local")(type "KiCad")(uri "C:/Users/MartinHansOOONOAS/Documents/private/Flexible EInk thing/USB E-Paper thing/local.kicad_sym")(options "")(descr ""))
+  (lib (name "ooono")(type "KiCad")(uri "C:/Users/MartinHansOOONOAS/Preventure Dropbox/Martin mah@ooono.dk/Device/019_R&D test jigs/001_Electronics/R&D jig PCB v3/ooono.kicad_sym")(options "")(descr ""))
+  (lib (name "project")(type "KiCad")(uri "${KIPRJMOD}/project.kicad_sym")(options "")(descr ""))
+)

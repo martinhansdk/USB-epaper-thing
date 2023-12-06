@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 3.292,
-          "width": 2.313
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -96,7 +96,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "ignore",
+        "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -418,7 +418,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB E-Paper thing.kicad_pro",
+    "filename": "E-paper adapter board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -521,16 +521,8 @@
   },
   "sheets": [
     [
-      "03659e82-b7b8-4d3e-8633-26f17364684b",
+      "0f31b0d6-6278-4f3e-b9cb-1e87448ecae8",
       ""
-    ],
-    [
-      "876f18ad-39d2-464b-941d-14407347fc1b",
-      "Power"
-    ],
-    [
-      "4dbcbaef-7c6d-4c27-8e2b-a8b0ba0cdd01",
-      "E-Ink display"
     ]
   ],
   "text_variables": {}
