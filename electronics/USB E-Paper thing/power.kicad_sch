@@ -2015,7 +2015,7 @@
     (property "Value" "TP4056" (at 157.48 102.5469 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm" (at 157.48 130.81 0)
+    (property "Footprint" "local:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP" (at 157.48 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" (at 157.48 130.81 0)
