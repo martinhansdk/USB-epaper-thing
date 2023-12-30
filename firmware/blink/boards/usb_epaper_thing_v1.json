@@ -1,0 +1,45 @@
+{
+    "build": {
+      "cpu": "cortex-m3",
+      "extra_flags": "-DSTM32L151xE",
+      "f_cpu": "32000000L",
+      "mcu": "stm32l151c6",
+      "product_line": "STM32L151xE",
+      "variant": "USB_EPAPER_THING_V1"
+    },
+    "debug": {
+      "default_tools": [
+        "stlink"
+      ],
+      "jlink_device": "STM32L151C8",
+      "onboard_tools": [
+        "stlink"
+      ],
+      "openocd_board": "st_nucleo_l1",
+      "openocd_target": "stm32l1",
+      "svd_path": "STM32L15xxE.svd"
+    },
+    "frameworks": [
+      "arduino",
+      "cmsis",
+      "mbed",
+      "stm32cube",
+      "libopencm3"
+    ],
+    "name": "USB E-Paper thing v1",
+    "upload": {
+      "maximum_ram_size": 16384,
+      "maximum_size": 65536,
+      "protocol": "stlink",
+      "protocols": [
+        "jlink",
+        "cmsis-dap",
+        "stlink",
+        "blackmagic",
+        "mbed"
+      ]
+    },
+    "url": "https://github.com/martinhansdk/USB-epaper-thing",
+    "vendor": "martinhansdk"
+  }
+  
