@@ -9,6 +9,6 @@ void setup() {
 }
 
 void loop() {
-  digitalToggle(LED0_PIN);
+  digitalToggle(LED1_PIN);
   delay(1000);
 }

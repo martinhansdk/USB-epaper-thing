@@ -1,3 +1,11 @@
+/* Alternate pin name */
+PA_2_ALT1 = PA_2 | ALT1,
+PA_3_ALT1 = PA_3 | ALT1,
+PA_6_ALT1 = PA_6 | ALT1,
+PA_7_ALT1 = PA_7 | ALT1,
+PB_8_ALT1 = PB_8 | ALT1,
+PB_9_ALT1 = PB_9 | ALT1,
+
 /* SYS_WKUP */
 #ifdef PWR_WAKEUP_PIN1
   SYS_WKUP1 = PA_0,
@@ -23,6 +31,7 @@
 #ifdef PWR_WAKEUP_PIN8
   SYS_WKUP8 = NC,
 #endif
+
 /* USB */
 #ifdef USBCON
   USB_DM = PA_11,

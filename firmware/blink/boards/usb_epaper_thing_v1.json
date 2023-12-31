@@ -2,10 +2,10 @@
     "build": {
       "cpu": "cortex-m3",
       "extra_flags": "-DSTM32L151xE",
-      "f_cpu": "32000000L",
+      "f_cpu": "16000000L",
       "mcu": "stm32l151c6",
       "product_line": "STM32L151xE",
-      "variant": "USB_EPAPER_THING_V1"
+      "variant": "generic"
     },
     "debug": {
       "default_tools": [
